@@ -1,0 +1,5 @@
+pm breakout cart-backups/*
+pm breakout cart copy-backups/*
+gerber/*
+backups/*
+fp-info-cache
