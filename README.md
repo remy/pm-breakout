@@ -21,3 +21,5 @@ I've made myself a few of these which I'm happy to sell over at https://retrobyr
 Other Pokemon Mini projects:
 
 - [PM Refurb](https://github.com/remy/pm-refurb) - a cart for testing refurbished consoles
+
+Licence: [MIT](https://rem.mit-license.org/)
